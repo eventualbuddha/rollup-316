@@ -1,5 +1,7 @@
 # demo for rollup/rollup#316
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventualbuddha/rollup-316.svg)](https://greenkeeper.io/)
+
 This project shows how to do conditional builds with rollup. Given `index.es6.js`:
 
 ```js
